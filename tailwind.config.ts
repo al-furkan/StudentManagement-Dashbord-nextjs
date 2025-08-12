@@ -13,6 +13,14 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+        colors: {
+        FonclickSky: "#C3EBFA",
+        FonclickLight: "#EDF9FD",
+        FonclickPurple: "#CFCEFF",
+        FonclickPurpleLight: "#F1F0FF",
+        FonclickYellow: "#FAE27C",
+        FonclickYellowLight: "#FEFCE8",
+      },
     },
   },
   plugins: [],
